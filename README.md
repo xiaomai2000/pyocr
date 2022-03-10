@@ -1,0 +1,2 @@
+# pyocr
+A OCR project
